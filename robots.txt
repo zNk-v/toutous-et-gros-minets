@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://znk-v.github.io/toutous-et-gros-minets/sitemap.xml
